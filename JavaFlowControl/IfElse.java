@@ -1,6 +1,6 @@
 package JavaFlowControl;
 
-public class FlowControl {
+public class IfElse {
 
     public static void main (String [] args) {
 

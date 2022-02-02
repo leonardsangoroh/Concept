@@ -9,6 +9,8 @@ class HelloWorld {
     }
 }
 
+//Comments are a part of a program that are completely ignored by compilers
+
 
 // [javac 'file name'.java] - to compile code
 // [java 'file name'] - to run
