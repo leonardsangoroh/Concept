@@ -9,7 +9,7 @@ public class Inputs {
 
         System.out.println("Enter name");
 
-        String userName = myScanner.nextLine()
+        String userName = myScanner.nextLine();
 
         System.out.println("Name: " + userName);
     }
